@@ -9,16 +9,8 @@ export default function Home() {
         <img src={logo} className="App-logo" alt="logo" />
         <Link className='App-link' to='/about'>About</Link>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to HOST3!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   )
